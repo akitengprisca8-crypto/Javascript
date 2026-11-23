@@ -50,7 +50,6 @@ button:hover {
 
 button:active {
    background-color: #353434;
-   transform: scale(0.89);
 }
 
 .operator-btn {
@@ -63,5 +62,4 @@ button:active {
 
 .operator-btn:active {
    background-color: #f9cd64;
-   transform: scale(0.89);
 }
